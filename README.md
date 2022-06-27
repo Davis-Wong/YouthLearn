@@ -6,4 +6,4 @@
 具体登录判读接口请根据学校重新填写\
 可使用pyinstaller将本程序封装为单体应用
 
-![demo.jpeg](demo.jpeg)
+![demo](demo.jpeg)
